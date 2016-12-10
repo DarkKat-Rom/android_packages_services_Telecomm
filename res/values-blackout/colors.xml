@@ -20,8 +20,6 @@
     <color name="blackout_bg">#ff000000</color>
     <color name="primary_color_blackout">#ff101010</color>
 
-    <color name="theme_color">@color/primary_color_blackout</color>
-
     <color name="dialer_settings_actionbar_background_color">@color/primary_color_blackout</color>
     <color name="dialer_settings_color_dark">@color/blackout_bg</color>
 
