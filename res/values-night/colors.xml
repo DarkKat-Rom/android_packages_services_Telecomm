@@ -16,7 +16,7 @@
 
 <resources>
 
-    <!-- Material theme -->
+    <!-- Night (Material) theme colors -->
     <color name="material_grey_800">#ff424242</color>
 
     <color name="blocked_numbers_divider_color">#1fffffff</color>
