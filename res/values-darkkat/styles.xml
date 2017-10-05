@@ -16,7 +16,7 @@
 
 <resources>
 
-    <!-- DarkKat theme -->
+    <!-- Night (DarkKat) theme styles -->
     <style name="TelecomDialerSettingsActionOverflowButtonStyle"
             parent="@android:style/Widget.Material.ActionButton.Overflow">
         <item name="android:src">@drawable/ic_more_vert_24dp</item>
